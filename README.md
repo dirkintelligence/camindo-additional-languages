@@ -29,5 +29,9 @@ A package becomes effective after rebuilding the snippet cache (under the "Tools
 
 | Code | Langauge |
 | --- | --- |
+| el_GR | Ελληνικά |
+| it_IT | Italiano |
+| nl_NL | Nederlands |
+| pl_PL | Polski |
 | sv_SE | Svensk |
 
